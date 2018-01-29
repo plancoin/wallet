@@ -1,0 +1,9 @@
+Building PLANCOIN
+
+See doc/readme-qt.rst for instructions on building PLANCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PLANCOIN.
+
+See doc/build-*.txt for instructions on building plancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PLANCOIN.
